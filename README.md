@@ -84,7 +84,7 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### Input Grayscale Image and Color Image
-![Uploading 310226193-db7202fd-62dd-49fb-981c-73a247e3df1a.png…]()
+![310226193-db7202fd-62dd-49fb-981c-73a247e3df1a](https://github.com/SdMdZahi7/Histogram-of-an-images/assets/94187572/85ee9dfe-8fe5-4a7e-a2a9-924e00f03d61)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
