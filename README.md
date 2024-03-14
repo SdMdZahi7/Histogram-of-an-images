@@ -25,8 +25,10 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-# Developed By: SYED MUHAMMED ZAHI
-# Register Number: 212221230114
+~~~
+ Developed By: SYED MUHAMMED ZAHI
+ Register Number: 212221230114
+~~~
 ~~~
 import cv2
 import matplotlib.pyplot as plt
